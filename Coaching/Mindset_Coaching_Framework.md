@@ -1,4 +1,4 @@
-### **Mindset Coaching for Professionals**
+# **Mindset Coaching for Professionals**
 
 Welcome to the Molomolo Tech Studios **Mindset Coaching for Professionals**! This coaching programme provides a targeted one-on-one guidance and support for professionals to develop the psychological tools necessary to thrive in their careers. This approach will foster resilience, a growth mindset, and a deep sense of purpose. These objectives are achieved by focusing on three major themes, each representing a separate module to be covered over a three months period.
 
