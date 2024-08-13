@@ -1,4 +1,4 @@
-### **Technical Coaching for Technical Professionals**
+# **Technical Coaching for Technical Professionals**
 
 Welcome to the Molomolo Tech Studios **Technical Coaching for Technical Professionals**! This coaching programme provides a targeted one-on-one guidance and support for technical professionals by ensuring they have the necessary technical, communication, and career development skills to thrive in their careers. These objectives are achieved by focusing on three major themes, each representing a separate module to be covered over a three months period.
 
