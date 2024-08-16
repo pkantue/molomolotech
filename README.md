@@ -12,4 +12,4 @@ The podcast Show Notes are available [here](/Podcast/ShowNotes).
 The **[MoloMolo E-learning](/E-Learning)** is a collection of training material to boost your spirituality, personal finance, mindset and productivity through technology.
 
 ## Coaching
-The **[MoloMolo Coaching](/Coaching)** is a one-to-one online program that ensures each individual has the right level of attention to achieve the desired results..
+The **[MoloMolo Coaching](/Coaching)** is a one-to-one online program that ensures each individual has the right level of attention to achieve the desired results. If want to take a free assessment, [click here](https://docs.google.com/forms/d/e/1FAIpQLSeHmME85n3iGfIkin6QGg0TsXAPeC1rAddRUayEAoVtUbk8zw/viewform)
