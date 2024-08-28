@@ -1,43 +1,24 @@
-Hook
+# Hook
+- Every year, over a period of 3 months, over 20% of Nigeria's food-producing farmland gets flooded and its farmers workers and millions of people face a food crisis to the point of starvation. Every. Single. Year!
+- Considering how lucrative farm produce is, why aren't tech companies targeting such areas that are in dire need of solutions?
+- This is the first episode of the Molomolo Africa Tech Chronicles, where we give our opinion of trending news/stories that are affecting the daily lives of Africans with the hope that we can create a safe space to discuss these issues and work together to find solutions.
 
-Start with a bold statement about how big tech companies are exploiting African resources and labor, questioning the ethics behind their practices.
+I'm Dr Paulin Kantue, Let's go!
 
-Introduction
+# Introduction
+Introduce the topic of African floods and starvation, highlighting the connection between natural disasters and humanitarian crises.
 
-Briefly introduce the subject of African exploitation by big tech, highlighting its significance in the global economy and social justice.
+# Presentation of Problem/Challenge
+Outline the central challenge of recurring floods in Africa, emphasizing how they devastate communities and lead to widespread hunger.
 
-Context
+# Exploration/Development
+Explore the causes of these floods, including climate change and deforestation, and discuss their effects on agriculture and local economies.
 
-1m
+# Climax/Key Moment
+Present a powerful personal story or a case study that illustrates the human impact of flooding and starvation, making it relatable and emotional.
 
-Provide background on the growth of big tech companies and their increasing reliance on African resources, setting the stage for a deeper discussion.
+# Conclusion/Summary
+Summarize the critical points discussed, reiterating the importance of addressing the cycle of floods and starvation in Africa.
 
-Main Points
-
-5m
-
-Break down your commentary into structured segments, discussing key aspects such as economic exploitation, environmental impact, and labor conditions in Africa.
-
-Evidence and Examples
-
-3m
-
-Use relevant examples, statistics, and case studies to illustrate your points, showcasing specific instances of exploitation and its consequences.
-
-Counterarguments
-
-1m
-
-Address potential counterarguments, such as claims that big tech brings economic development to Africa, and provide a nuanced perspective.
-
-Conclusion
-
-1m
-
-Sum up your stance on the ethical implications of big tech's actions in Africa and highlight the key takeaways for viewers.
-
-Call to Action (CTA)
-
-1m
-
-Encourage viewers to share their thoughts in the comments, subscribe for more content, or watch another related video on your channel.
+# Call to Action (CTA)
+Encourage viewers to comment on their thoughts about the issue, and suggest they watch another video on related humanitarian topics. If you want to learn more about an African Champion that we interviewed on our podcast and that is using drones for flood disaster readiness in South Africa, click this video here.
