@@ -21,4 +21,4 @@ Present a powerful personal story or a case study that illustrates the human imp
 Summarize the critical points discussed, reiterating the importance of addressing the cycle of floods and starvation in Africa.
 
 # Call to Action (CTA)
-Encourage viewers to comment on their thoughts about the issue, and suggest they watch another video on related humanitarian topics. If you want to learn more about an African Champion that we interviewed on our podcast and that is using drones for flood disaster readiness in South Africa, click this video here.
+If you enjoyed this video and want to learn more about an African Champion that we interviewed on our podcast and that is using emerging technology like drones for flood disaster management in South Africa, click the video here.
