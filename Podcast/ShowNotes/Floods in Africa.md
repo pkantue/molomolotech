@@ -1,7 +1,7 @@
 # Hook
 - Every year, over a period of 3 months, over 20% of Nigeria's food-producing farmland gets flooded and its farmers workers and millions of people face a food crisis to the point of starvation. Every. Single. Year!
 - Considering how lucrative farm produce is, why aren't tech companies targeting such areas that are in dire need of solutions?
-- This is the first episode of the Molomolo Africa Tech Chronicles, where we give our opinion of trending news/stories that are affecting the daily lives of Africans with the hope that we can create a safe space to discuss these issues and work together to find solutions.
+- This is the first episode of the Molomolo AfroTech Chronicles, where we give our opinion on trending news that are affecting the daily lives of Africans with the hope that we can create a safe space to discuss these issues and work together to find solutions.
 
 I'm Dr Paulin Kantue, Let's go!
 
