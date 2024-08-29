@@ -27,13 +27,13 @@ The impact of floods on food security and spread of disease can be divided into 
 
 ## Risk of Small farms in extreme weather conditions
 - In the event of extreme weather conditions, small farms to adopt more low-tech and ad-hoc flood
-management strategies, such as temporary migration, gift economy, and mutual aid [8].
+management strategies, such as temporary migration, gift economy, and mutual aid.
 - This is due to weak disaster management institutions and inadequate preparedness. 
 
 ## Impact on Food Security and Soil Erosion
 - The loss of household and farm assets, e.g., stored crops and livestock.
-but also indirectly through the loss of labour, either to death or forced migration, or to soil destruction and land degradation [24]; these may
-cumulatively culminate in a decline in food production [23,47]. Land contamination may impair food production further.
+but also indirectly through the loss of labour, either to death or forced migration, or to soil destruction and land degradation; these may
+cumulatively culminate in a decline in food production. Land contamination may impair food production further.
 
 ## Impact on health and sanitation
 - The threat of disease outbreaks is elevated during the rainy season.
