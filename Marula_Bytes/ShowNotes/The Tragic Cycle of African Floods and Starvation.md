@@ -1,7 +1,7 @@
 # Hook
--A recent found that every year, over a period of 3 months, over 20% of Nigeria's food-producing farmland gets flooded and its farmers workers and millions of people face a food crisis to the point of starvation. Every. Single. Year!
-- Considering how important agriculture is worldwide, why aren't African tech companies targeting to improve this industry above all others?
-- This is the first episode of Molomolo AfroTech Chronicles, where we give our opinion on trending news that are affecting the daily lives of Africans.
+Every year, over a period of 3 months, over 20% of Nigeria's food-producing farmland gets flooded and its farmers workers and millions of people of Sahel region face a food crisis to the point of starvation. Every. Single. Year!
+- Now, considering how important agriculture is worldwide, why aren't tech companies targeting to improve this industry above all others?
+- This is the first episode of Molomolo Marual Bytes, where we give our opinion on trending news that are affecting the daily lives of Africans.
 
 I'm Dr Paulin Kantue, Let's go!
 
