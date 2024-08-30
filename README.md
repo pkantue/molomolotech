@@ -9,7 +9,7 @@ The **[MoloMolo African Tech Stories](/Podcast)** focuses on sharing untold or f
 The podcast Show Notes are available [here](/Podcast/ShowNotes).
 
 ## Commentaries
-The **[MoloMolo Marula Bytes](/Marula_Bytes)** are commentaries on trending news (bites of the juicy Marula fruit) affecting the daily lives of Africans. Often funny. Sometimes serious!
+The **[MoloMolo Marula Bytes](/Marula_Bytes)** are commentaries (small bits) on trending news (juicy Marula fruit) affecting the daily lives of Africans.
 
 The commentary Show Notes are available [here](/Marula_Bytes/ShowNotes).
 
