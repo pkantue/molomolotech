@@ -1,9 +1,17 @@
 ## Intro
-Today’s guest is a dynamic innovator, entrepreneur, and mentor with a strong background in procurement, negotiation, and finance. Eddy Gitonga has founded and led three impactful ventures in smart waste management, climate tech, and clean tech. 
+### Hook: Have you ever wondered how innovation can transform waste into internet access for your phone? 
 
-As the founder of T-Bin Limited, Eddy has revolutionized waste management by developing smart waste bins that cut waste and boost recycling. At Eden Ecotech Global, Eddy's ingenuity led to a patented garbage security light that uses waste for energy. 
+Well today, we have a truly dynamic guest who embodies that spirit of change.
+
+- Read-out (alternate with extracts from the conversation).
+
+Meet Eddy Gitonga, an innovative entrepreneur and mentor with a remarkable background in procurement, negotiation, and finance. Eddy has founded and led three impactful ventures in smart waste management, climate tech, and clean tech.
+
+As the founder of T-Bin Limited, he’s revolutionizing waste management with smart waste bins designed to cut waste and boost recycling efforts. And at Eden Ecotech Global, Eddy’s ingenuity shines through with a patented garbage security light that not only uses waste for energy but also enhances community safety.
 
 Now, as a business coaching specialist at WIDU.africa, Eddy empowers entrepreneurs with design thinking and lean startup skills, driving environmental innovation and positive global impact.
+
+### Stay tuned as Eddy shares his journey, insights on sustainable innovation, and how we can contribute to a cleaner, greener, smarter future!"
 
 ## Questions
 
