@@ -1,13 +1,9 @@
 ## Intro
-Today we have an inspiring guest who is a true innovator, entrepreneur, and mentor. Our guest has a rich procurement, negotiation, and finance background, and has channelled this expertise into creating impactful solutions for environmental and social challenges. 
+Today’s guest is a dynamic innovator, entrepreneur, and mentor with a strong background in procurement, negotiation, and finance. Eddy Gitonga has founded and led three impactful ventures in smart waste management, climate tech, and clean tech. 
 
-With a remarkable career spanning the founding and leadership of three ventures, our guest has made significant strides in smart waste management, climate tech, and clean tech. As the founder of T-Bin Limited, they revolutionized waste management by developing and manufacturing smart waste bins designed to reduce waste generation and boost recycling rates. Their ingenuity continued with Eden Ecotech Global, where as CEO, they patented a unique garbage security light that harnesses waste as an energy source.
+As the founder of T-Bin Limited, Eddy has revolutionized waste management by developing smart waste bins that cut waste and boost recycling. At Eden Ecotech Global, Eddy's ingenuity led to a patented garbage security light that uses waste for energy. 
 
-Currently, our guest brings their wealth of experience to WIDU.africa as a business coaching specialist. Here, they empower entrepreneurs with essential skills and tools to grow their businesses using design thinking and lean startup methodologies. Our guest's commitment to innovation is further evidenced by their certifications in design-driven entrepreneurship and enterprise design thinking.
-
-In addition to their professional achievements, our guest is a polyglot, fluent in English, Swahili, and Chinese, showcasing their global perspective and dedication to cross-cultural collaboration. Driven by curiosity, creativity, and a collaborative spirit, they strive to make a positive impact on the world.
-
-Join us as we delve into the journey of a visionary leader who is transforming environmental innovation and entrepreneurial mentorship.
+Now, as a business coaching specialist at WIDU.africa, Eddy empowers entrepreneurs with design thinking and lean startup skills, driving environmental innovation and positive global impact.
 
 ## Questions
 
