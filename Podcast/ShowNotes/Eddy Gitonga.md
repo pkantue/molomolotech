@@ -1,5 +1,5 @@
 ## Intro
-### Hook: Have you ever wondered how innovation can transform waste into internet access for your phone? 
+### Pre-record: Have you ever wondered how innovation can transform waste into internet access for your phone? 
 
 Well today, we have a truly dynamic guest who embodies that spirit of change.
 
@@ -11,7 +11,7 @@ As the founder of T-Bin Limited, he’s revolutionizing waste management with sm
 
 Now, as a business coaching specialist at WIDU.africa, Eddy empowers entrepreneurs with design thinking and lean startup skills, driving environmental innovation and positive global impact.
 
-### Stay tuned as Eddy shares his journey, insights on sustainable innovation, and how we can contribute to a cleaner, greener, smarter future!"
+### Pre-record: Stay tuned as Eddy shares his journey, insights on sustainable innovation, and how we can contribute to a cleaner, greener, smarter future!"
 
 ## Questions
 
@@ -33,6 +33,6 @@ Now, as a business coaching specialist at WIDU.africa, Eddy empowers entrepreneu
 6. **Lessons Learned and Future Vision**
    - *What are some key lessons you’ve learned from your experiences in smart waste management, climate tech, and clean tech? And, looking ahead, what is your vision for the future of environmental innovation and entrepreneurship?*
 
-## Outro
+## Pre-record: Outro
 Thanks for listening to MoloMolo African Tech Stories! Stay tuned for more captivating tales of African tech pioneers, shaping the future of technology on the African continent. Please subscribe and don't miss out on our upcoming episodes!
 
