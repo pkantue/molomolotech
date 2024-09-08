@@ -9,12 +9,18 @@ You must keep asking the "why" t<question to your older self who has achieved a 
 Since it took a lot of time and effort, people would be curious about what drove you to continue creating content and pushing through moments of doubt or exhaustion.
 
 ## How has your content evolved as you've grown and searched for your identity?
-There's alot of noise on Youtube. For everything, everybody has an opinion and eventually wants to sell you something.
+- You will learn to find your voice if your message is broad enough.
+- Watch Out! There's alot of noise on Youtube!!! Learn to have a filter!
+- Everybody has an opinion and eventually wants to sell you something.
+- 
 
 Given that you mentioned personal identity searching, people would be interested in how your content and personal expression changed over time to reflect this journey.
 
 ## What lessons have you learned from the experience that you wish you knew earlier?
-- If you at least know what you don't want, do only short detours back to your lane.
+- If possible, start short-form (over 1min) explainer videos and build up to long-form video podcasts. Explan why?
+- This is not a corporate workplace. You don't have to be a guru to help someone. 
+- 
+
  
 People often seek advice from someone who's made it through challenges. They might want to know what insights you gained from this long process, especially regarding managing expectations and balancing hard work with self-discovery.
 
