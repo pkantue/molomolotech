@@ -1,16 +1,17 @@
 # Why Perfectionism Is Killing Your Career (and How to break free)
-## Hook: Are you someone who is often trapped or exhausted by your beliefs that failure is not an option (i.e army sergeant speech to cadets).
+## Hook: Are you someone who is often trapped or exhausted by your belief that failure is not an option (i.e army sergeant speech to cadets). Do you often feel indecisive amid "too much risk" or "too little information"?
 
 ## Intro
-In today's episode of the Molomolo African Tech Stories Podcast were are going to walk through some self-reflective questions that should reveal how bad perfectionism is part of our lives and some strategies to start breaking from this part of an impostor syndrome.
+### In today's episode of the Molomolo African Tech Stories Podcast were are going to walk through some self-reflective questions that should reveal how your level of perfectionism and some strategies to start breaking from this part of our impostor syndrome.
+
 - I'm Dr. Paulin Kantue and podcast tagline.
 
 ### story
 - My story when it comes to perfectionism. (e.g. Building the company Uav4africa and being gripped by fear before a flight test.)
-- The roots stem from childhood (cite inferior complex video). 
+- The roots stem from childhood (cite inferior complex video).
 
 ## Advert
-Ask to like and subscribe 
+If you're enjoying this audio or video. Ask to like and subscribe 
 
 I've learned over the years to ask myself a couple of questions to 
 
