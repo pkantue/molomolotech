@@ -7,8 +7,7 @@
 - I'm Dr. Paulin Kantue and podcast tagline.
 
 ### story
-- Example: https://www.youtube.com/watch?v=OZuUwcl_wT8
-- 
+-The story in "Whiplash" (2014) movie. Get some selected clips (use VLC).
 - My story when it comes to perfectionism. (e.g. Building the company Uav4africa and being gripped by fear before a flight test.)
 - The roots stem from childhood (cite inferior complex video).
 
