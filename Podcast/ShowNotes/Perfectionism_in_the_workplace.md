@@ -30,6 +30,7 @@ I've learned over the years to ask myself a couple of questions to
    (This examines whether perfectionism inhibits teamwork and trust.)
 
 ### Strategies:
+- **Understand where perfectionist nature comes from** The fear of others (including your own thoughts).
 - **Set realistic goals:** Break tasks into smaller, achievable milestones to avoid overwhelming pressure.
 - **Celebrate progress (yours and others)** Focus on growth rather than flawless results.
 - **Embrace failure:** View mistakes as learning opportunities, not reflections of competence.
