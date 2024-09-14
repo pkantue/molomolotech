@@ -44,18 +44,18 @@ If you're enjoying this audio or video and the topic resonates with you, please 
 It is the fear of inadequacy disguised as the pursuit for excellence. 
 ### Left unchecked, it forms of complex network of destructive thoughts, imbalanced lifestyle, and poor relationships with the pretext of suffering for the greater "good". 
 
-### Answer to Q1
-- 
-### Answer to Q2
-- 
-### Answer to Q3
-- 
-### Answer to Q4
-- 
+### Sankara's life answer to Q1
+- "True success is empowering the people and achieving independence from foreign control. Failure is accepting exploitation. We must strive for progress, even at personal cost."
+### Sankara's life answer to Q2
+- "My worth lies in the impact I make for my people, not in titles or accolades. Achievement is meaningful only if it uplifts society." 
+### Sankara's life answer to Q3
+- "Disappointment fuels reflection." Sankara would respond with intensified efforts, potentially resorting to more authoritarian measures to meet his goals."
+### Sankara's life answer to Q4
+- Sankara had a strong vision and, while he valued teamwork, his perfectionist nature made delegation difficult. He often maintained strict control over decision-making.
 
 ### Strategies to overcome:
 - **Understand where perfectionist nature comes from** The fear of others (including your own thoughts).
-- **Set realistic goals:** Break tasks into smaller, achievable milestones to avoid overwhelming pressure.
+- **Set realistic goals for an unrealistic vision:** Break tasks into smaller, achievable milestones to avoid overwhelming pressure.
 - **Celebrate progress (yours and others)** Focus on growth rather than flawless results.
 - **Embrace failure:** View mistakes as learning opportunities, not reflections of competence.
 - **Practice delegation:** Trust others and acknowledge that imperfection is part of collaboration. 
