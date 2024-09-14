@@ -2,21 +2,23 @@
 ## Hook: Are you someone who is often trapped or exhausted by your belief that failure is not an option (i.e army sergeant speech to cadets). Do you often feel indecisive amid "too much risk" or "too little information"?
 
 ## Intro
-### In today's episode of the Molomolo African Tech Stories Podcast were are going to walk through some self-reflective questions that should reveal how your level of perfectionism and some strategies to start breaking from this part of your impostor syndrome.
+### As part of our series on Impostor syndrome, we will start with Perfectionism. We will make use of some self-reflective questions to reveal our perfectionist nature through the story of a famous African technologist and revolutionary, Thomas Sankara, who I believe was also a perfectionist. 
+### We will also discuss some strategies to start breaking away for our perfectinist nature.
+
+## Tech facts
+- 30% of workers admit that perfectionism leads them to procrastinate on tasks. (Harvard Business Review)
+- 52% of tech employees report feeling exhausted by perfectionist-driven expectations. (World Health Organization)
+- 20% of high achievers in the tech industry experience anxiety from perfectionism. (American Psychological Association)
 
 - I'm Dr. Paulin Kantue and podcast tagline.
 
-### story
--The story in "Whiplash" (2014) movie. Get some selected clips (use VLC).
-- My story when it comes to perfectionism. (e.g. Building the company Uav4africa and being gripped by fear before a flight test.)
-- The roots stem from childhood (cite inferior complex video).
+- ## Advert
+If you're enjoying this audio or video and the topic resonates with you, please do a favour and subscribe to this channel. It would mean the world to me and validate the MoloMolo message.
 
-## Advert
-If you're enjoying this audio or video. Ask to like and subscribe 
+### coaching advert
+- If you want know how to boost your career potential or elevate your professional brand, I'm offering a one-on-one coaching programme called technical coaching for technical professionals. This a 3-months-long program with weekly lessons, with principles based on the famous book "Who moved my cheese?", where I will personally guide you through various technical principles that I've learned over the last 16 years as an aerospace engineer holding various technical and leadership roles. There are limited spaces so I suggest you complete your free assessment today. You can the link in the description. Let's find your new cheese together! 
 
-I've learned over the years to ask myself a couple of questions to 
-
-### Questions:
+## Questions:
 1. **What are your core beliefs about success and failure?**  
    (This helps identify if perfectionism stems from fear of failure or societal expectations.)
    
@@ -29,7 +31,29 @@ I've learned over the years to ask myself a couple of questions to
 4. **How do you approach collaboration and delegation in your work?**  
    (This examines whether perfectionism inhibits teamwork and trust.)
 
-### Strategies:
+## story of Thomas Sankara
+- Known for his dedication to anti-corruption, self-sufficiency, and radical reforms.
+- Sankara tirelessly worked to reshape Burkina Faso into a model of African independence.
+- While he introduced progressive reforms such as health campaigns, land redistribution, and gender equality initiatives, his use of Popular Revolutionary Tribunals (PRTs) and the Committees for the Defense of the Revolution (CDRs) became a point of concern?
+### - Who was concerned with this? The west, of course.
+- But the fact remains: These tribunals prosecuted those considered enemies of the revolution, including public officials accused of corruption, political crimes, and counter-revolutionary activities.
+- Thomas strive for perfection resulted in an oppressive and authoritarian state.
+#### - Some may say, what's the problem with that? Change by ANY means!
+
+## What is Perfectionism
+It is the fear of inadequacy disguised as the pursuit for excellence. 
+### Left unchecked, it forms of complex network of destructive thoughts, imbalanced lifestyle, and poor relationships with the pretext of suffering for the greater "good". 
+
+### Answer to Q1
+- 
+### Answer to Q2
+- 
+### Answer to Q3
+- 
+### Answer to Q4
+- 
+
+### Strategies to overcome:
 - **Understand where perfectionist nature comes from** The fear of others (including your own thoughts).
 - **Set realistic goals:** Break tasks into smaller, achievable milestones to avoid overwhelming pressure.
 - **Celebrate progress (yours and others)** Focus on growth rather than flawless results.
