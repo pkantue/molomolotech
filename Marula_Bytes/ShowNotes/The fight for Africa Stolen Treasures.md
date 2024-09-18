@@ -1,5 +1,7 @@
 **Title: The Fight for Africa’s Stolen Treasures: Why Are Colonial Powers Resisting?**
-
+Download the videos: 
+- https://youtu.be/hoTxiRWrvp8?si=GpGmS_ogb8sM8WGy
+- 
 ---
 
 ### **HOOK (0:00 - 0:30)**
