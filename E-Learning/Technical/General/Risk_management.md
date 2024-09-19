@@ -1,0 +1,1 @@
+This an outline on risk management basics for technical professionals.
