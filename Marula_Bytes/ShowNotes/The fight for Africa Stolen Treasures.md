@@ -83,6 +83,8 @@ Download the videos:
 ### **CONCLUSION: How Can Technology Play a Part? (8:00 - 10:00)**
 
 *Footage of people scanning artifacts and 3D printing them, as well as digital museums.*
+- source: https://www.artec3d.com/cases/3d-scanning-largest-natural-sciences-collection-europe
+- https://www.youtube.com/watch?v=EEtc2OXvmq0
 
 **Narrator (V.O.):**  
 "So, what can be done? Technology is already playing a role in the conversation about restitution. Digital archives and 3D scanning allow countries to create virtual collections, providing access to lost treasures while negotiations for their return continue."
