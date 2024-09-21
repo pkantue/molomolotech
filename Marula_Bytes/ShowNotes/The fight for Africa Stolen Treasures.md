@@ -95,7 +95,7 @@ Priceless treasures, stolen legacies—pieces of history scattered across foreig
 *Footage from the "Dahomey" documentary of the royal treasures finally arriving home.*
 
 **Narrator (V.O.):**  
-"*Dahomey* shows us what true restitution can look like—when treasures are finally returned to their rightful owners. But it’s just one story in a larger struggle. Technology can help bridge the gap, but it’s only a tool. Real change will come when colonial powers stop resisting and start recognizing the value of cultural justice."
+"*Dahomey* shows us what true restitution can look like—when treasures are finally returned to their rightful owners. But it’s just one story in a larger struggle. Technology can help bridge the gap, but it’s only a tool. Real change will come when colonial powers stop resisting and start recognizing the value of cultural justice, thereby creating a new African narrative."
 
 ---
 
