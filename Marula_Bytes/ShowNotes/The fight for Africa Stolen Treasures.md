@@ -5,11 +5,11 @@ Download the videos:
 
 ### **HOOK (0:00 - 0:30)**
 
-*Scene opens with a dramatic pan over famous stolen artifacts like the Benin Bronzes, and then cuts to footage of protests and African art exhibitions.*
+*Scene opens with a dramatic pan over famous stolen artefacts like the Benin Bronzes, and then cuts to footage of protests and African art exhibitions.*
 
 **Narrator (V.O.):**
-(with intence music)
-Priceless treasures, stolen legacies—pieces of history scattered across foreign museums, far from their true home. The fight to bring back Africa's stolen art has reached a boiling point, but why do former colonial powers like the UK and France resist returning these artifacts? And what does it mean for the people of Africa? 
+(with intense music)
+Priceless treasures, stolen legacies—pieces of history scattered across foreign museums, far from their true home. The fight to bring back Africa's stolen art has reached a boiling point, but why do former colonial powers like the UK and France resist returning these artefacts? How can Technology play a part in resolving this conflict?
 ---
 - *Introduction and Marula Bytes*
 ---
@@ -45,7 +45,7 @@ Priceless treasures, stolen legacies—pieces of history scattered across foreig
 *Footage of debates in the British Parliament and the French Senate.*
 
 **Narrator (V.O.):**  
-"Some say it's about preserving world history, but who decides what part of the world gets to keep it? Many European institutions argue that they are ‘protecting’ the art or that these pieces have become part of their own cultural identity. But this begs the question: can you claim ownership of something stolen?"
+"Some say it's about preserving world history, but who decides what part of the world gets to keep it? Many European institutions argue that they are ‘protecting’ the art or that these pieces have become part of their own cultural identity. But this begs the question: can you claim ownership of something you have BORROWED to protect or even STOLEN?"
 
 *Cut to news footage of protests in Nigeria, Benin, and Senegal demanding the return of cultural treasures.*
 
@@ -69,7 +69,7 @@ Priceless treasures, stolen legacies—pieces of history scattered across foreig
 *Cuts to interviews with historians and art experts.*
 
 **Narrator (V.O.):**  
-"Despite growing international pressure, there’s a fear among colonial powers that returning artifacts could trigger a domino effect. If they return African treasures, what stops other countries from demanding their own cultural heritage back? These museums could lose thousands of significant items, along with millions in tourism revenue."
+"Despite growing international pressure, there’s a fear among colonial powers that returning artefacts could trigger a domino effect. If they return African treasures, what stops other countries from demanding their own cultural heritage back? These museums could lose thousands of significant items, along with millions in tourism revenue."
 
 *Cut to scenes of empty museum halls in Europe.*
 
@@ -80,7 +80,7 @@ Priceless treasures, stolen legacies—pieces of history scattered across foreig
 
 ### **CONCLUSION: How Can Technology Play a Part? (8:00 - 10:00)**
 
-*Footage of people scanning artifacts and 3D printing them, as well as digital museums.*
+*Footage of people scanning artefacts and 3D printing them, as well as digital museums.*
 - source: https://www.artec3d.com/cases/3d-scanning-largest-natural-sciences-collection-europe
 - https://www.youtube.com/watch?v=EEtc2OXvmq0
 
