@@ -1,37 +1,35 @@
 **Title: The Fight for Africa’s Stolen Treasures: Why Are Colonial Powers Resisting?**
 Download the videos: 
 - https://youtu.be/hoTxiRWrvp8?si=GpGmS_ogb8sM8WGy
-- 
 ---
 
 ### **HOOK (0:00 - 0:30)**
 
 *Scene opens with a dramatic pan over famous stolen artifacts like the Benin Bronzes, and then cuts to footage of protests and African art exhibitions.*
 
-**Narrator (V.O.):**  
-"Priceless treasures, stolen legacies—pieces of history scattered across foreign museums, far from their true home. The fight to bring back Africa's stolen art has reached a boiling point, but why do former colonial powers like the UK and France resist returning these artifacts? And what does it mean for the people of Africa?"
-
-*Cut to title screen with intense music:*  
-**“The Fight for Africa’s Stolen Artifacts”**
-
+**Narrator (V.O.):**
+(with intence music)
+Priceless treasures, stolen legacies—pieces of history scattered across foreign museums, far from their true home. The fight to bring back Africa's stolen art has reached a boiling point, but why do former colonial powers like the UK and France resist returning these artifacts? And what does it mean for the people of Africa? 
 ---
-
+- *Introduction and Marula Bytes*
+---
 ### **INTRO WITH FACTS (0:30 - 2:00)**
 
 *Footage of the British Museum, the Louvre, and artifacts such as the Benin Bronzes, the Rosetta Stone, and Egyptian treasures.*
-
-**Narrator (V.O.):**  
-"In the halls of the world’s most prestigious museums, Africa's cultural heritage remains imprisoned. More than 90% of Africa’s cultural artifacts are estimated to be held outside the continent. This includes objects taken during colonial times—many of them stolen in violent raids or deceitful transactions."
-
 *Images of colonial soldiers carrying away treasures, alongside numbers of known items in foreign collections.*
 
 **Narrator (V.O.):**  
-"For example, the British Museum alone holds over 700 objects from the Kingdom of Benin, while France’s Musée du quai Branly stores over 70,000 pieces of African art. These treasures are more than just decorative items—they represent centuries of culture, history, and identity."
+- In the halls of the world’s most prestigious museums, Africa's cultural heritage remains imprisoned. 
+- More than 90% of Africa’s cultural artifacts are estimated to be held outside the continent.
+- This includes objects taken during colonial times—many of them stolen in violent raids or deceitful transactions."
+- British Museum alone holds over 700 objects from the Kingdom of Benin
+- France’s Musée du quai Branly stores over 70,000 pieces of African art.
+- These treasures are more than just decorative items—they represent centuries of culture, history, and identity.
 
 *Cut to a scene from the upcoming documentary, "Dahomey," showing the royal treasures being returned.*
 
 **Narrator (V.O.):**  
-"This video was inspired by the soon-to-be-released documentary *Dahomey,* directed by Mati Diop, which dramatizes the return of 26 royal treasures from France to Benin. But why does it take a documentary, countless protests, and years of negotiation to return what was never theirs in the first place?"
+"This episode was inspired by the soon-to-be-released documentary *Dahomey,* directed by Mati Diop, which dramatizes the return of 26 royal treasures from France to Benin. But why does it take a documentary, countless protests, and years of negotiation to return what was never theirs in the first place?"
 
 ---
 
