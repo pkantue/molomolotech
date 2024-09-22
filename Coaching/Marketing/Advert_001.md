@@ -1,5 +1,4 @@
 ## Title 
-How One-on-One Coaching Can Skyrocket Your Career
-
+One-on-One Coaching: The Secret to Career Focus & Success
 ## Content
 Already created video.
