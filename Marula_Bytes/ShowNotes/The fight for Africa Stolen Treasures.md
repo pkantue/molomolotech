@@ -9,7 +9,7 @@ Download the videos:
 
 **Narrator (V.O.):**
 (with intense music)
-Priceless treasures, stolen legacies—pieces of history scattered across foreign museums, far from their true home. The fight to bring back Africa's stolen art has reached a boiling point, but why do former colonial powers like the UK and France resist returning these artefacts? How can Technology play a part in resolving this conflict?
+Priceless treasures, stolen legacies—pieces of history scattered across foreign museums, far from their true home. The fight to bring back Africa's stolen art has reached a boiling point, but why do former colonial powers resist returning these artefacts? How can Technology play a part in resolving this conflict?
 ---
 - *Introduction and Marula Bytes*
 ---
