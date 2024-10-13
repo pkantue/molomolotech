@@ -2,7 +2,7 @@
 
 # Hook:
 - 90% of all my peers complain about poor time management and work pressures.
-- This does not consider continuous education or professional branding!
+- Most of them are surprised when they hear I did my PhD part-time and FINISHED!
 - To succeed in your tech career or business, you need to manage your time!
 - One way to do that, is to create a system that helps you manage your time!
   
@@ -30,22 +30,32 @@ Alright, let's get into it...
 
 ## Review breakdown
 - So what is TickTick?
-  - It's a to-do & task management app to help you capture ideas, manage time and keep life on track.
-  - It integrates with your Calendar, captures personal progress, helps track your focus time and so much more!
-  - This is not an endorsement or sponsored video.
-  - Purely sharing my experience
-- TickTiick Web walkthrough
-- I've learnt three productivity hacks that have helped me stay stress-free and efficient.
+  - It's a task management app to help you capture ideas and manage your time.
+  - It integrates complex task definition, calendar, focus time and so much more!
   
-# 1. Flexible Recurring Tasks 
-- The recurring tasks based on completion or due date
+> This is not an endorsement or sponsored video.
 
-# 2. Text Editor with Focus Time
+> Purely sharing my experience
+
+## TickTick Web - walkthrough
+- Explain the App layout
+- Showcase my task lists
+- Over the past 10 years, are three productivity hacks I use everyday
+- These have helped me stay stress-free and efficient.
+  
+# 1. Get Better through Repetition
+- Flexible Recurring Tasks 
+- The recurring tasks based on completion or due date
+## Tutorial: Create a recurring task with Pomo
+
+# 2. High-Quality Note-taking
+- Text Editor with Focus Time
 - Use Markdown language to better text visuals (Video: _Markdown in another video_)
-- Tutorial on formulating a list - which can then be exported to Github for further project colloration under change control
+## Tutorial: Show this transcript 
 
 # 3. Project Management with Sub-tasks
 - Forget MS Project or Excel!
 - Using sub-tasks with deadlines and recurring properties saves you time.
-- 
+
+## Tutorial: create and add Sub-tasks (Monthly view)
 
