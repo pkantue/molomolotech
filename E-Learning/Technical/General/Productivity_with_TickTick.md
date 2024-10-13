@@ -33,7 +33,7 @@ Alright, let's get into it...
   - It's a task management app to help you capture ideas and manage your time.
   - It integrates complex task definition, calendar, focus time and so much more!
   
-> This is not an endorsement or sponsored video.
+> This is not an endorsement or sponsored video!
 
 > Purely sharing my experience
 
