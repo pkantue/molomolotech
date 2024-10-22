@@ -63,12 +63,9 @@ If you've enjoyed this video up to this point, help us improve by hitting that "
 "To sum it up, technical communication is a key skill that helps bridge the gap between technical experts and their audience. Whether it’s in documentation, presentations, or emails, always aim for clarity, conciseness, and relevance to your audience. If you can master this, you’ll stand out in any technical field."
 
 *[Outro music begins to play]* 
+
 If you would like to get more practical knowledge to improve your technical communication or technical writing, you can join our online coaching group. The details are in the description of this video. Every week in that coaching group, we answer the questions participants have asked.
 
-"Thanks for watching! If you found this helpful, don’t forget to hit the like button, subscribe, and let me know in the comments how technical communication has impacted your work. See you in the next video!"
+"Thanks for watching! If you found this helpful, don’t forget to hit the like button, subscribe, and let me know in the comments how technical communication has impacted your work. Ciao!"
 
 *[Outro fades out]*
-
----
-
-This transcript brings the concept of technical communication to life through relatable workplace scenarios, making it easier to understand its importance in a tech setting.
