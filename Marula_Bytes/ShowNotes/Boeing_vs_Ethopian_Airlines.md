@@ -27,8 +27,8 @@ Hi, I'm Dr Paulin Kantue. Welcome to another episode of Marula Bytes. "In late 2
 **Host:**
 "This isn’t just a story of corporate oversight; it’s about how African airlines, like Ethiopian Airlines, are often treated as afterthoughts. When Boeing withheld crucial safety information, it highlighted a systemic issue—African airlines, despite their rapid growth and world-class operations, are excluded and not given the same respect as their Western counterparts. The lives lost in the Ethiopian crash remind us of the real cost of this exclusion."
 
-**Advert**
-If you've enjoyed this video up to this point, help us improve by hitting that "Subscribe" button and sharing this story with your friends and family! This is the best way to get feedback from you and motivates us to keep making more videos like this one. Thank you for your support!  
+### **Advert**
+There's a famous African proverb that says: "it takes a village to raise a child" If you're enjoying this video, I invite you to be part of our village and help us grow by clicking that Subscribe button and turning on the notification bell. A child can only thrive with a supportive village. Thank you for your support!
 
 [Cut to visuals of protests from families of the victims]
 
