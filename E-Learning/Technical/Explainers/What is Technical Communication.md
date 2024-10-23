@@ -64,8 +64,6 @@ If you've enjoyed this video up to this point, help us improve by hitting that "
 
 *[Outro music begins to play]* 
 
-If you would like to get more practical knowledge to improve your technical communication or technical writing, you can join our online coaching group. The details are in the description of this video. Every week in that coaching group, we answer the questions participants have asked.
-
-"Thanks for watching! If you found this helpful, don’t forget to hit the like button, subscribe, and let me know in the comments how technical communication has impacted your work. Ciao!"
+If you would like to gain more practical knowledge to improve your technical communication or technical writing, you can join our online coaching group. We have a weekly group session, where industry experts share their knowledge with the participants. All the information is in the video's description. 
 
 *[Outro fades out]*
