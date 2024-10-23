@@ -26,6 +26,9 @@ Here’s a quick way to set your goals in TickTick. Open the app, hit the little
 **You (shrugging):**  
 Alright, I'm just going to pick the path that *feels* like I’ll get more steps in. See? Always thinking productively. 
 
+
+### **Advert**
+There's a famous African proverb that says: "it takes a village to raise a child" If you're enjoying this video, I invite you to be part of our village and help us grow by clicking that Subscribe button and turning on the notification bell. A child can only thrive with a supportive village. Thank you for your support!
 ---
 
 ### 2. **Clearing the Mental Clutter: Prioritizing**
