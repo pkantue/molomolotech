@@ -29,7 +29,7 @@ Whether you’re working in software, engineering, or any technical field, commu
 "So what went wrong here? Alex is obviously a smart engineer, but the documentation wasn’t written for the right audience. That’s where technical communication comes in—it’s not just about writing what you know, but ensuring the people who need it (sometime in the future!) can use it. In this case, Sarah’s team needed simplified explanations and maybe even some examples on how the APIs could be integrated with the frontend. But instead, they were served a hot bowl of frustrating jargon!"
 
 **Advert**
-If you've enjoyed this video up to this point, help us improve by hitting that "Subscribe" button and sharing this story with your friends and family! This is the best way to get feedback from you and motivates us to keep making more videos like this one. Thank you for your support!
+There's a famous African proverb that says: "it takes a village to raise a child" If you're enjoying this video, I invite you to be part of our village and help us grow by clicking that Subscribe button and turning on the notification bell. A child can only thrive with a supportive village. Thank you for your support!
 
 "Now let’s look at another story. Picture this: A product manager named Maya, is working for a large corporation on a drone technology project. You’re collaborating with the engineering team to finalize a project proposal for an external client."
 
