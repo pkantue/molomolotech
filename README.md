@@ -1,4 +1,7 @@
-# MoloMolo Tech Studios
+# Welcome
+Hi I'm Dr. Paulin Kantue and welcome to my GitHub page. I'm an aerospace engineer with over 17 years of experience and I've created Molomolo Tech Studios to help you reach your full potential molo molo (step by step) through technology. 
+
+# Our Mission
 Molomolo Tech Studios integrates stories, E-learning and coaching, empowering all Africans to improve their communities through technology.
 
 ## Stories
