@@ -1,6 +1,7 @@
-Transcript for Interview Checklist Explanation:
-
 "Preparing for a technical interview can feel overwhelming, but breaking it down into key areas can make it a lot easier. I’ve created a simple six-part checklist specifically designed for technical professionals to help you feel confident and ready.
+
+# Tagline
+### Hi I'm Dr. Paulin Kantue and welcome to my channel. I'm an aerospace engineer with over 17 years of experience and I've created Molomolo Tech Studios to help you reach your maximum potential through technology, molo molo, meaning step by step. 
 
 Let’s start with Technical Skills & Proficiency. This is all about knowing your core skills. Make sure you review the essential tools and technologies for the role and prepare to discuss your specific problem-solving experiences. Updating yourself on recent trends can also show interviewers that you’re staying current in your field.
 
