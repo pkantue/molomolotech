@@ -3,7 +3,10 @@
 *[Upbeat intro music fades out]*
 
 **[Host]:**
-Whether you’re working in software, engineering, or any technical field, communication of technical information plays a huge role in your effectiveness. So, what exactly is technical communication, and why is it important? Let’s break it down."
+Whether you’re working in software, engineering, or any technical field, communication of technical information plays a huge role in your effectiveness. So, what exactly is technical communication, and why is it important? How can you use this skill to maximize your career?
+
+## Intro
+Hi I'm Dr. Paulin Kantue and welcome to my GitHub page. I'm an aerospace engineer with over 17 years of experience and I've created Molomolo Tech Studios to help you reach your full potential molo molo (step by step) through technology.
 
 *[Slide: "What is Technical Communication?"]*
 
