@@ -1,7 +1,9 @@
 # Title: 5 Rules for Communicating Effectively with Engineers (with examples).  
 
 # Promise/Hook
-- By the end of this video, you will have something to start practicing in your work, busisness or home and eventually help others to do the same. Let's go!
+- Do you sweat and panic everytime you have to discuss technical information with your colleagues? Do you feel the world shrinking around you with judging eyes whenever you speak? I've been there many times and it's awful.
+
+In this video, I will share with you 5 rules of engagement with your tech colleagues that, if applied correctly, will be a gamechanger both for your respect within the team and your self confidence. Let's go!
 
 # Intro
 
