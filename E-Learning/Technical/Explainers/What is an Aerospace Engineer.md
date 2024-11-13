@@ -1,8 +1,15 @@
+# Title: So you want to be an Aerospace Engineer
+
 ## Hook
 When one thinks about aerospace engineering, one thinks of NASA, SpaceX, Boeing, or even Lilium (call the exterminator joke). I mean, who wouldn’t want to be part of those amazing, high-tech companies, right? But I’m here to tell you that aerospace engineering isn’t quite as glamorous as you might think. Sure, there’s math, physics, fluid dynamics, aerodynamics—all that technical stuff. But that’s just the entry ticket. The true essence of an aerospace engineer’s role is actually simpler, but also much harder than that. What I’m about to tell you might surprise you and yet it will all be worth it. Let's go!
 
 ## Intro
 Hi, I’m PK, and welcome to my channel. I’m an aerospace engineer with over 17 years of experience, and I'm here to help you reach your full potential in your tech career or business.
+
+## Story
+- I picked my career when I was 11 years old.
+- This was from a newspaper article describing the requirements to become an aerospace engineer.
+- Even though I had major set backs along way, I never gave up on the dream. 
 
 ## Key Message
 Now, let’s talk about the heart of aerospace engineering. We've seen the flying rockets, the satellites orbiting the sky, or the magnificent fighter jets that blow the imagination of young and old alike. But behind all these marvellous feats of human ingenuity, more than anything else, aerospace engineering is about persistence. You’re going to encounter failures, setbacks, and sometimes, designs that literally come crashing down. Let me share a story to illustrate this.
