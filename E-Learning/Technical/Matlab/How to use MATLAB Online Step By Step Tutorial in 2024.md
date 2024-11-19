@@ -1,4 +1,4 @@
-### **Transcript: How to use MATLAB Online Step By Step Tutorial in 2024**  
+### **Title: How to use MATLAB Online Step By Step Tutorial in 2024**  
 
 **[Opening Scene: Calm music fades in with the title: "How to Use MATLAB Online - Step-by-Step Tutorial for Beginners."]**  
 
