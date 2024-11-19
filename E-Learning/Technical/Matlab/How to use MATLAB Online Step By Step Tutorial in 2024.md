@@ -66,13 +66,9 @@ disp(['The area of the circle is: ', num2str(area)]);
 
 ### **Recap and Next Steps**  
 **[Presenter switches back to a camera view or static slide.]**  
-"In this tutorial, we logged into MATLAB Online, wrote a simple script, explored built-in apps, and learned how to share projects with others. It’s easy to use and incredibly versatile for coding on the go. In the next video, we’ll dive deeper into advanced features like cloud storage and integrating with Simulink Online."  
+"In this tutorial, we logged into MATLAB Online, wrote a simple script, explored built-in apps, and learned how to share projects with others. It’s easy to use and incredibly versatile for coding on the go. In the next video, we’ll introduce Simulink Online using a real-world example."  
 
 **[Closing slide with text: "Thank you for watching! Subscribe for more tutorials."]**  
-"If you enjoyed this tutorial, don’t forget to like, share, and subscribe for more beginner-friendly tips. Thanks for watching, and see you next time!"  
+"If you enjoyed this tutorial, don’t forget to like, share, and subscribe for more molomolo-friendly tips."  
 
 **[Music fades out.]**  
-
----  
-
-Would you like any specific code examples or visuals to enhance this script?
