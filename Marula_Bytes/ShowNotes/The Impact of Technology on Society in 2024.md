@@ -19,7 +19,7 @@ Stay with me as we explore how technology’s impact in 2024 isn’t just about 
 **[Intro Music]**
 
 **Host:**  
-Hello, everyone, and welcome to another episode of *Marula Bytes*! I’m Dr. PK, helping you reach your full potential in your tech career or business. 
+Hello, everyone, and welcome to another episode of *Marula Bytes*! I’m Dr. PK and I'm here to help you reach your full potential in your tech career or business. 
 - Today, we’re diving into a topic that’s not just about technology, but about humanity 
 
 -As many of you know, I’m originally from Cameroon, my parents live there now. 
