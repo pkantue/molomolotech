@@ -1,3 +1,10 @@
+## Key Concepts
+- Variables and arrays in MATLAB.
+- Basic mathematical operations and sine functions.
+- Plotting and visualizing data.
+- Saving data for future use.
+
+## Code
 % Define time (in hours) over a 24-hour period
 time = 0:0.1:24; % Time vector in increments of 0.1 hours
 
