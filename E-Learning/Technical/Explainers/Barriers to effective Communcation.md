@@ -20,6 +20,9 @@ Hi, I'm Dr. PK. Welcome to my channel. I'm an aerospace engineer with over 17 ye
 Non-verbal communication is key - this is even more important with dogs
 Analogy - Instructions to dogs (e.g use of the leash).
 
+## Mid-promo
+If you are enjoying this video, be sure to leave a like. This helps Youtube to push to video to a larger audience who might be interested in growing their communication skills in 2025. And leads me to be the next barrier... 
+
 ## Lack of effort
 Communication is a skill - you need to keep working on it (reading books, presenting at conferences, etc...)
 Analogy - dog house rules.
@@ -27,6 +30,8 @@ Analogy - dog house rules.
 ## Poor Foundation
 Communication basics 
 Analogy - Learn "Sit", before "Roll-Over".
+
+## Questions
 
 # Outro
 If you would like to gain more practical knowledge to improve your technical communication or technical writing, you can join our online coaching group. We have a weekly group session, where industry experts share their knowledge with the participants. All the information is in the video's description. Until next time,
