@@ -8,14 +8,20 @@ Hi, I'm Dr. PK. Welcome to my channel. I'm an aerospace engineer with over 17 ye
 
 ## Background
 - A couple of days ago, in one of my technical sessions, I became very frustrated and visibly annoyed with one of my interns.
-- He showed poor communication on his progress and had a nonchalant attitude toward improving. 
+- He has been unable to communicate his progress clearly and had a nonchalant attitude toward improving that. 
 - I soon realised that despite his best efforts, he was unaware of his communication walls.
 - These barriers prevented him from explaining his technical progress.
-- And even more concerning, he lacked the confidence to know HOW to ask for help. 
+- And even more concerning, he lacked the confidence to know HOW to ask for help.
+- So this is the basis for this video!  
 
 ## Context
-- This is Obelix. He's 10 years old. Unlike his older brother Asterix, who passed away a couple of months ago, he was a lot harder to train. 
-- He was such a wild and free spirit. My complex relationship with him reminded me of my journey to improve my communication with my dogs and how it shaped other areas of my life, including my tech career.
+- Alright, this is Obelix. He's 10 years old.
+- Unlike his older brother Asterix, who passed away a couple of months ago, he was a lot harder to train.
+- He seems calm now, but he was completely different a couple of years ago!
+- He was such a wild and free spirit, unwilling to listen or take instruction.
+- My complex relationship with him reminded me of my journey to remove my communication barriers and improve my relationship with my dogs.
+- Learning to identify those barriers, surprisingly shaped other areas of my life, including my career.
+- So let's go through some of them...  
 
 ## Lack of Clarity
 - Non-verbal communication is key - this is even more important with dogs
