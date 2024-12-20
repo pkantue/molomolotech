@@ -1,2 +1,2 @@
 % This is the GUI for the Gigt Grabber game!
-% Author: Paulin Kantue
+% Author: Paulin Kantue  
