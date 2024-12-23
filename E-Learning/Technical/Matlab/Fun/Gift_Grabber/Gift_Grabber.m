@@ -53,9 +53,9 @@ timerObj.TimerFcn = {@updateSim,giftAxes,basketAxes,scoreObj};
 timerObj.StopFcn = @(~,~)disp('Simulation has stopped');
 % timerObj.StartFcn = {@updateSim,giftAxes,basketAxes};
 
-set(mainFig,'KeyPressFcn',@myfun);
+set(mainFig,'KeyPressFcn',@movebasket);
 
-function myfun(src,event)
+function movebasket(src,event)
 xpos = src.Children(4).Position(1);
 
 switch event.Key
@@ -65,7 +65,7 @@ switch event.Key
         xpos = xpos - 0.05;
 end
 
-src.Children(6).Position(1) = xpos;
+src.Children(4).Position(1) = xpos;
 
 end
 
@@ -115,7 +115,7 @@ if checklim < 0.05
         scoreObj.Text = ['Score = ' num2str(scoreObj.score) 'pts'];
         startSim('','',giftAxes,basketAxes,src,scoreObj)
     else
-        % game has ended
+        % game has ended  
         scoreObj.Text = ['Score = ' num2str(scoreObj.score) 'pts'];
         scoreObj.score = 0;
         stop(src); % stop timer
