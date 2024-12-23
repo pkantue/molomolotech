@@ -111,20 +111,12 @@ if checklim < 0.05
     % and increase drop speed 
     if abs(giftAxes.Position(1) - basketAxes.Position(1)) < 0.085
         scoreObj.score = scoreObj.score + 10;
-<<<<<<< HEAD
         scoreObj.fallSpeed = scoreObj.fallSpeed + 0.01;
-=======
-        scoreObj.fallSpeed = scoreObj.fallSpeed + 0.03;
->>>>>>> 6e1bc3348e44887c3504af62fab808c7246cc19e
         scoreObj.Text = ['Score = ' num2str(scoreObj.score) 'pts'];
         startSim('','',giftAxes,basketAxes,src,scoreObj)
     else
         % game has ended
-<<<<<<< HEAD
         scoreObj.Text = ['Score = ' num2str(scoreObj.score) 'pts'];
-=======
-        scoreObj.Text = 'Game Over!';
->>>>>>> 6e1bc3348e44887c3504af62fab808c7246cc19e
         scoreObj.score = 0;
         stop(src); % stop timer
         % startSim('','',giftAxes,basketAxes,src,scoreObj);
