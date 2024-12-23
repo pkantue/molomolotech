@@ -37,31 +37,38 @@ rightBtn = uibutton(mainFig,...
     'ButtonPushedFcn',{@updateBasketPos,basketAxes,1});
 
 scoreObj = uilabel(mainFig);
-scoreObj.Text = "Game Start";
-scoreObj.FontSize = 14;
-scoreObj.Position = [0.8, 0.8, 100, 50];
+scoreObj.Text = "Press Start";
+scoreObj.FontSize = 20;
+scoreObj.Position = [10, 350, 150, 50];
+addprop(scoreObj,'score');
+addprop(scoreObj,'fallSpeed');
+scoreObj.score = 0;
+scoreObj.fallSpeed = 0;
 
-timerObj = timer('StartDelay', 4, 'Period', 0.5,...
+timerObj = timer('StartDelay', 4, 'Period', 0.2,...
           'ExecutionMode', 'fixedRate');
 timerObj.StartFcn = @(~,~)disp('Simulation has started');
-timerObj.TimerFcn = {@updateSim,giftAxes,basketAxes};
+timerObj.TimerFcn = {@updateSim,giftAxes,basketAxes,scoreObj};
 timerObj.StopFcn = @(~,~)disp('Simulation has stopped');
 % timerObj.StartFcn = {@updateSim,giftAxes,basketAxes};
 
 startBtn = uibutton(mainFig,...
     'Text','START',...
     'Position',[10 200 50 30],...
-    'ButtonPushedFcn',{@startSim,giftAxes,basketAxes,timerObj});
-addprop(startBtn,'StartSim');
-
+    'ButtonPushedFcn',{@startSim,giftAxes,basketAxes,timerObj,scoreObj});
 
 %% functions
-function startSim(src,event,giftAxes,basketAxes,timerObj)
+function startSim(src,event,giftAxes,basketAxes,timerObj,scoreObj)
 
-src.StartSim = 1;
-start(timerObj);
+% initialize the simulation
+if scoreObj.score == 0
+    scoreObj.fallSpeed = 0.03;
+    basketAxes.Position(1) = 0.4;
+    % start simulation
+    start(timerObj);
+end
+
 giftAxes.Position(2) = 0.7;
-basketAxes.Position(1) = 0.4;
 
 % setup random position of the gift
 leftpos = 0.2;
@@ -70,24 +77,32 @@ randpos = leftpos + (rightpos - leftpos)*rand();
 
 giftAxes.Position(1) = randpos;
 
+scoreObj.Text = ['Score = ' num2str(scoreObj.score) 'pts'];
+
 end
 
-function updateSim(src,event,giftAxes,basketAxes)
+function updateSim(src,event,giftAxes,basketAxes,scoreObj)
+
 % update position of gift
-giftAxes.Position(2) = giftAxes.Position(2) - 0.025;
+giftAxes.Position(2) = giftAxes.Position(2) - scoreObj.fallSpeed;
 
 % check limit before 
 checklim = giftAxes.Position(2);
 
 if checklim < 0.05
-    stop(src); % stop timer
-    
     % if gift and basket are aligned game point is increased
     % and increase drop speed 
-    if abs(giftAxes.Position(2) - basketAxes.Position(2)) < 0.06
-
+    if abs(giftAxes.Position(1) - basketAxes.Position(1)) < 0.085
+        scoreObj.score = scoreObj.score + 10;
+        scoreObj.fallSpeed = scoreObj.fallSpeed + 0.03;
+        scoreObj.Text = ['Score = ' num2str(scoreObj.score) 'pts'];
+        startSim('','',giftAxes,basketAxes,src,scoreObj)
     else
         % game has ended
+        scoreObj.Text = 'Game Over!';
+        scoreObj.score = 0;
+        stop(src); % stop timer
+        % startSim('','',giftAxes,basketAxes,src,scoreObj);
     end
 end
 
