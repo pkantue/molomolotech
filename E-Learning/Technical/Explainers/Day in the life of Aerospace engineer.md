@@ -4,7 +4,7 @@
 - And what makes a career in aerospace so special? Let’s dive in!
 
 ## Intro  
-Hi, I'm Dr. PK, and welcome to my channel! I’m an aerospace engineer with over 17 years of experience, and I’m here to help you unlock your full potential in your tech career or business. On this channel, I share insights from my professional journey to inspire you to take on challenges, grow, and excel in your field.  
+Hi, I'm Dr. PK. With 17 years in aerospace engineering, I’m here to help you grow your tech career or business with the right tools, strategies, and mindset. If this interests you, pls subscribe and join the journey!
 
 ## Background  
 > Video segment
