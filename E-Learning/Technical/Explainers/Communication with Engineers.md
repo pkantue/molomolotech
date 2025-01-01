@@ -6,7 +6,7 @@
 In this video, I will share with you 5 rules of engagement that matter to your tech colleagues and that, if applied correctly, will be a game-changer for your relationships with your colleagues and your overall self-confidence. Let's go!
 
 # Intro
-Hi, I’m Dr. PK. Welcome to my channel. I’m an aerospace engineer with over 17 years of experience, and I'm here to help you reach your full potential in your tech career or business.
+Hi, I'm Dr. PK. With 17 years in aerospace engineering, I’m here to help you grow your tech career or business with the right tools, strategies, and mindset. If this interests you, pls subscribe and join the journey!
 
 # Story
 - I used to stutter. Yep! In my mid-twenties, I could not speak to more than one person at a time. 

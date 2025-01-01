@@ -4,11 +4,11 @@ Imagine coming home to that!!!! All dog owners can relate, right? The first ques
 In this video, we are going to talk about three barriers to communication you should take seriously and learn from our interactions with dogs that can help you be better in 2025.
 
 ## Intro
-Hi, I'm Dr. PK. Welcome to my channel. I'm an aerospace engineer with over 17 years of experience and I'm here to help you reach your full potential in your tech career or business. I make videos to that inspire you to change 
+Hi, I'm Dr. PK. With 17 years in aerospace engineering, I’m here to help you grow your tech career or business with the right tools, strategies, and mindset. If this interests you, pls subscribe and join the journey!
 
 ## Background
 - A couple of days ago, in one of my technical sessions, I became very frustrated and visibly annoyed with one of my interns.
-- He has been unable to communicate his progress clearly and had a nonchalant attitude toward improving that. 
+- He had been unable to communicate his progress clearly and had a nonchalant attitude toward improving that. 
 - I soon realised that despite his best efforts, he was unaware of his communication walls.
 - These barriers prevented him from explaining his technical progress.
 - And even more concerning, he lacked the confidence to know HOW to ask for help.
@@ -19,13 +19,15 @@ Hi, I'm Dr. PK. Welcome to my channel. I'm an aerospace engineer with over 17 ye
 - Unlike his older brother Asterix, who passed away a couple of months ago, he was a lot harder to train.
 - He seems calm now, but he was completely different a couple of years ago!
 - He was such a wild and free spirit, unwilling to listen or take instruction.
-- My complex relationship with him reminded me of my journey to remove my communication barriers and improve my relationship with my dogs.
+- My complex relationship with him reminded me of my journey to confront my communication barriers and improve my relationship with him.
 - Learning to identify those barriers, surprisingly shaped other areas of my life, including my career.
 - So let's go through some of them...  
 
 ## Lack of Clarity
 - Non-verbal communication is key - this is even more important with dogs
 - Analogy - Instructions to dogs (e.g use of the leash).
+- How you s
+- This is the same way around the office (e.g. smile, greetings, 
 
 ## Segway
 If you are enjoying this video, be sure to leave a like. This helps Youtube to push to video to a larger audience who might be interested in growing their communication skills in 2025. And leads me to be the next barrier... 
