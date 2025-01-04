@@ -6,13 +6,18 @@ from pybricks.tools import wait, StopWatch
 
 hub = CityHub()
 
-distance = ColorDistanceSensor(Port.A)
+sens_dist = ColorDistanceSensor(Port.A)
 motor = DCMotor(Port.B)
 
-dist_ref = 5 # this is in cm
+dist_ref = 50 # this is in cm
 
 # determine the proportional path 
 
-motor.dc(20)
+while 1:
+    distance = sens_dist.distance()
+    # compute the error
+    error = dist_ref - distance
 
-wait(1000)
+    K_p = error*(3/5)
+
+    motor.dc(K_p)
