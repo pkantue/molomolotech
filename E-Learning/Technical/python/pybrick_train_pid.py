@@ -10,14 +10,30 @@ sens_dist = ColorDistanceSensor(Port.A)
 motor = DCMotor(Port.B)
 
 dist_ref = 50 # this is in cm
-
+I_err = 0 # initialze the integral error 
 # determine the proportional path 
 
 while 1:
     distance = sens_dist.distance()
-    # compute the error
-    error = dist_ref - distance
+    
+    # enter safeguard to unintended movements
+    if distance == 100:
+        K_I = 0
+        K_P = 0
+        motor.brake
+    else:
+        # compute the error
+        error = dist_ref - distance
+        I_err = I_err + error/2000
 
-    K_p = error*(3/5)
+        K_P = error*(3/5) # proportional gain
+        K_I = I_err # integral gain
 
-    motor.dc(K_p)
+        if K_I > 80:
+            K_I = 80
+    
+        if K_I < -80:
+            K_I = -80
+    
+        motor.dc(K_P + K_I)
+    
