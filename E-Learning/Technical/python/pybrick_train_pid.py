@@ -5,6 +5,7 @@ from pybricks.robotics import DriveBase
 from pybricks.tools import wait, StopWatch
 
 hub = CityHub()
+my_remote = Remote(timeout=3000) # time out after 3s
 
 sens_dist = ColorDistanceSensor(Port.A)
 motor = DCMotor(Port.B)
