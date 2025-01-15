@@ -1,8 +1,8 @@
+### Hook
+enter hook here. 
 
-**[Opening Scene: Calm indoor setting, professional but approachable tone. Dr. PK is standing in a well-lit room with a whiteboard or a large monitor in the background. Subtle background music fades out as the video begins.]**
-
-**Dr. PK:**  
-Hi, I’m Dr. PK! With over 17 years of experience in aerospace engineering, I’m here to help you grow your tech career or business using the right tools, strategies, and mindset. If that sounds like your kind of journey, please subscribe and join me—we’re just getting started!  
+### Intro
+Hi, I’m Dr. PK! With over 17 years in aerospace, I’m here to help you grow your tech potential using stories, tutorials, and interviews. If this is for you, please subscribe and let's grow together!
 
 Today’s topic? **Mastering Technical Communication: Skills You MUST Have.** 
 Whether you’re an engineer, developer, or entrepreneur, communicating your technical ideas effectively is critical. Let’s dive right in.
