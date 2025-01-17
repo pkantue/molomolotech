@@ -11,7 +11,7 @@ In this video, we’ll talk about three barriers to communication you should tak
 Hi, I'm Dr. PK. With 17 years in aerospace engineering, I’m here to help you grow your tech career or business with the right tools, strategies, and mindset. If this interests you, please subscribe and join the journey!  
 
 ## Background  
-- A couple of days ago, in one of my technical sessions, I became very frustrated and visibly annoyed with one of my interns.  
+- A couple of weeks ago, in one of my technical sessions, I became very frustrated and visibly annoyed with one of my interns.  
 - He struggled to communicate his progress clearly and seemed uninterested in improving that.  
 - I soon realized that despite his best efforts, he was unaware of the barriers blocking his communication.  
 - These walls stopped him from explaining his technical progress effectively and, worse, eroded his confidence to *ask* for help.  
@@ -27,9 +27,6 @@ Hi, I'm Dr. PK. With 17 years in aerospace engineering, I’m here to help you g
 - Non-verbal communication is crucial—this applies to dogs and humans alike.  
 - Think about giving instructions to a dog: when using a leash, your tone, body language, and consistency must align. Mixed signals confuse them.  
 - The same happens in the workplace. For example, a smile, a warm greeting, or even a simple “thank you” are small, clear actions that reinforce understanding and connection. Without clarity, misunderstandings grow.  
-
-## Segway  
-If you’re enjoying this video, leave a like! It helps YouTube show this content to a larger audience interested in growing their communication skills in 2025. Now, let’s move on to the next barrier.  
 
 ## Barrier 2: Lack of Effort  
 - Communication isn’t something you’re born perfect at—it’s a skill that requires effort and practice.  
