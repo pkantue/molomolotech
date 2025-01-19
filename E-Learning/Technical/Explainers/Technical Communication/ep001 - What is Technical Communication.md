@@ -10,7 +10,7 @@ How can it level up your career?
 
 ## Intro  
 Hi, I'm Dr. PK.  
-I have over 17 years in aerospace engineering.
+With over 17 years in aerospace engineering.
 I help tech professionals grow their career or business...
 ...with the right tools, strategies and mindset.
 If this interests you, subscribe and join the journey!
