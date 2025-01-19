@@ -10,9 +10,10 @@ How can it level up your career?
 
 ## Intro  
 Hi, I'm Dr. PK.  
-I have over 17 years in aerospace engineering.  
-I help tech professionals grow with the right tools and mindset.  
-If this interests you, subscribe and join the journey!  
+I have over 17 years in aerospace engineering.
+I help tech professionals grow their career or business...
+...with the right tools, strategies and mindset.
+If this interests you, subscribe and join the journey!
 
 *[Slide: "What is Technical Communication?"]*  
 
@@ -23,8 +24,8 @@ Too much detail? It overwhelms.
 Too little? It confuses.  
 
 Use this skill for:  
-- Documentation  
-- Manuals  
+- Documentation / Reports
+- Manuals / Specifications  
 - Presentations  
 
 The goal: Clear, focused, and impactful messages.  
