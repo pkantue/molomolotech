@@ -1,4 +1,4 @@
-Here’s a rewritten version structured into cue cards for a video transcript, including a hook and an ad for your technical coaching:
+##  Title: My Career is Broken! 
 
 ---
 
