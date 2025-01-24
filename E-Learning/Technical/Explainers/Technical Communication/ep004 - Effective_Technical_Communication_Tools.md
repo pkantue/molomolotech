@@ -1,4 +1,4 @@
-Go through each one along the web browser tabs. 
+Go through each one along the web browser tabs.
 
 These popular tools to improve your technical communication skills (Besides, obvious MS, Google
 
