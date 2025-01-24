@@ -1,4 +1,5 @@
 # Title: 5 Rules for Communicating Effectively with Engineers (with examples).  
+# Alternative Title: Why is technical communication CRUCIAL to Aerospace Engineers?
 
 # Promise/Hook
 - Do you sweat and panic every time you have to discuss technical information with your colleagues? Do you feel the world shrinking around you with judging eyes whenever you want to explain yourself? I've been there many times and it's awful.
