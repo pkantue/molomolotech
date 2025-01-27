@@ -2,6 +2,13 @@
 The following topics have been chosen from the Whatsapp community as potential seminars for this year. 
 The purpose is to have an engaging audience and relevant guests that will be willing to add some context for those watching such a webinar.
 
+Each webinar should be:
+- Connect with their hearts
+- Establish the problem and premise (technical solutions are found with your heart NOT your mind).
+- Perspective shift (external case studies).
+- Give them REAL solutions (to be applied today).
+- Show and Tell (internal case studies - guests).
+
 ---
 
 ### **Career Skills**
@@ -10,22 +17,22 @@ The purpose is to have an engaging audience and relevant guests that will be wil
    - How to prepare for technical and HR interviews effectively.
    - Researching companies and understanding job descriptions.
 
-2. **Interview Preparation for Engineers**
+3. **Interview Preparation for Engineers**
    - Common interview questions for technical roles and how to answer them.
    - Technical presentation skills for showcasing projects.
    - Mock interview strategies with feedback.
 
-3. **How to Build a Career Path in Tech or Engineering**
+4. **How to Build a Career Path in Tech or Engineering**
    - Exploring diverse career opportunities (e.g., aerospace, automotive, software, etc.).
    - Identifying and leveraging transferable skills.
    - How to pivot or specialize early in your career.
 
-4. **Networking 101 for Engineering Students**
+5. **Networking 101 for Engineering Students**
    - Leveraging LinkedIn and professional networks for career growth.
    - How to reach out to mentors, recruiters, and industry professionals.
    - Strategies for growing your visibility in the tech industry.
 
-5. **Crafting a Standout Portfolio**
+6. **Crafting a Standout Portfolio**
    - How to showcase technical projects and academic achievements.
    - Documenting MATLAB/Simulink or other technical project work.
    - Using GitHub or similar platforms for coding or simulation portfolios.
