@@ -68,7 +68,7 @@
 "If you enjoyed this episode, don’t forget to subscribe and share it with your network. And if you’re ready to improve your own storytelling skills in technical communication, check out my coaching program and free resources at [website]."
 
 **Teaser for Next Episode:**  
-"Next time, we’ll be peeling back the layers on another critical skill for technical communicators: [next skill/topic]. Until then, keep crafting your stories and communicating your ideas with impact."
+"Next time, we’ll be peeling back the layers on another critical skill for technical communicators: "empathy". Until then, keep crafting your stories and communicating your ideas with impact."
 
 ---
 
