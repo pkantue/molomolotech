@@ -1,8 +1,8 @@
 ### Scope
 The following topics have been chosen from the Whatsapp community as potential seminars for this year. 
-The purpose is to have an engaging audience and relevant guests that will be willing to add some context for those watching such a webinar.
+The purpose is to have an engaging audience and relevant guests who will be willing to add some context for those watching such a webinar.
 
-Each webinar should be:
+Each webinar should have the following objectives:
 - Connect with their hearts
 - Establish the problem and premise (technical solutions are found with your heart NOT your mind).
 - Perspective shift (external case studies).
