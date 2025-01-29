@@ -1,4 +1,4 @@
-## Podcast Title: The Lithium-Ion Revolution - Rachid Yazami Story - EP024**  
+## Podcast Title: The Man Who Made Your Tesla Possible - Rachid Yazami Story - EP024**  
 
 ---
 
