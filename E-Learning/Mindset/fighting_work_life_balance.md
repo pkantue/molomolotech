@@ -5,3 +5,5 @@ This is a topic that comes-up very time has a sensitive topic and clearly deserv
 This is a placeholder to add my thoughts on this.
 
 The fighting to surface your core values and concept of values bargaining should be expanded.
+
+This will be a candid recording in the forest while I'm walking around. 
