@@ -100,4 +100,4 @@ Even after co-founding **Andela** and later **Flutterwave**, he often battled **
 "If you enjoyed today’s episode, subscribe, share, and leave a review! And if you’re looking to **enhance your technical communication skills**, visit [website] to explore my coaching program and free resources."  
 
 **Teaser for Next Episode:**  
-"Next time, we’ll dive into another essential skill— [xxx] and explore how African innovators use strategic execution to turn ideas into reality. Stay tuned!"  
+"Next time, we’ll dive into another essential skill **[pragmatism]** and explore how African innovators use strategic execution to turn ideas into reality. Stay tuned!"  
