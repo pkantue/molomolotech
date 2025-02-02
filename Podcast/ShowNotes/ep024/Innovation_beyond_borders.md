@@ -1,4 +1,4 @@
-## Title: Innovation beyound Borders 
+## Title: Innovation beyond Borders 
 
 ### **[Podcast Introduction]**  
 **Host Intro:**  
@@ -39,11 +39,21 @@ Even after co-founding **Andela** and later **Flutterwave**, he often battled **
 **Example Statement:**  
 "By recognizing that success requires teamwork, strategic execution, and a willingness to **iterate instead of waiting for perfection**, Aboyeji was able to scale his impact beyond a single company or industry."  
 
+---
 
+### **[Layer 3: Learning with AI] – Breaking Down Industry Terms**  
+
+*"Alright, now it’s time for ‘**Learning with AI**’—where we break down some technical terms related to today’s story! You’ve heard about Iyinoluwa Aboyeji’s impact on the African tech ecosystem through Andela and Flutterwave, but what do some of the key industry terms associated with his work actually mean?"*  
+
+- **Tech Ecosystem** – *A network of developers, startups, investors, and organizations that work together to drive innovation. Andela played a crucial role in strengthening Africa’s tech ecosystem by training thousands of software engineers.*  
+- **Fintech (Financial Technology)** – *The use of technology to improve financial services, making transactions faster, more accessible, and secure. Flutterwave is a great example, as it allows businesses across Africa to send and receive money globally.*  
+- **Venture Capital (VC)** – *Funding provided by investors to early-stage startups with high growth potential. Aboyeji’s Future Africa fund is a VC platform that supports African entrepreneurs building scalable tech solutions.*  
+
+*"Now, the next time you hear these terms in a meeting or a conference, you’ll not only know what they mean—you’ll also understand how they’re shaping Africa’s tech landscape!"* 🚀
 
 ---
 
-### **[Layer 3: The HOW]**  
+### **[Layer 4: The HOW]**  
 **Deep Dive into the Technical Concepts:**  
 "How did Aboyeji **practically apply** these principles to overcome challenges in communication and execution?"  
 
@@ -61,7 +71,7 @@ Even after co-founding **Andela** and later **Flutterwave**, he often battled **
 
 ---
 
-### **[Layer 4: The PRACTICAL LESSONS]**  
+### **[Layer 5: The PRACTICAL LESSONS]**  
 **Actionable Tips for Listeners:**  
 "So, what can we learn from Aboyeji’s approach to technical communication and leadership?"  
 
