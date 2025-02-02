@@ -1,4 +1,4 @@
-##  Title: Is Work-Life Balance Even Possible?
+##  Title: How I Overcame a Broken Career (and YOU Can Too)
 
 ---
 
