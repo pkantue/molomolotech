@@ -36,7 +36,21 @@ But here’s the key: **Without pragmatic communication, his discoveries might h
 
 ---
 
-### **[Layer 3: The HOW – Deep Dive into the Technical Concepts]**
+### **[Layer 3: Learning with AI] – Breaking Down Industry Terms (Rachid Yazami)**  
+
+*"Alright, now it’s time for **‘Learning with AI’**—where we break down some technical terms related to today’s story! Since we’re talking about **Rachid Yazami**, the inventor behind lithium-ion battery technology, let’s explore some key terms in battery science and energy storage."*
+
+- **Intercalation** – *A process where lithium ions move in and out of electrode materials, allowing rechargeable batteries to store and release energy efficiently. Imagine a sponge absorbing and releasing water—that’s how lithium ions move within a battery!*
+
+- **Anode & Cathode** – *The two main parts of a battery where energy is stored and released. The anode (usually made of graphite) releases lithium ions, while the cathode (often a metal oxide) receives them, generating electrical flow.*
+
+- **State of Charge (SOC)** – *A measure of how much energy remains in a battery, similar to a fuel gauge in a car. Advanced algorithms predict SOC to optimize battery performance and lifespan.*
+
+*"Now, the next time you hear about battery efficiency, fast charging, or electric vehicles, you’ll have a clearer understanding of the science behind them—and you’ll know that an African innovator played a major role in shaping this technology!"* 🚀🔋
+
+---
+
+### **[Layer 4: The HOW – Deep Dive into the Technical Concepts]**
 
 **Host:**  
 "How did Yazami turn his research into a globally recognized breakthrough? Let’s peel back another layer and explore his technical and communication strategies.
@@ -51,7 +65,7 @@ But here’s the key: **Without pragmatic communication, his discoveries might h
 
 ---
 
-### **[Layer 4: The WHAT – Practical Lessons for You]**
+### **[Layer 5: The WHAT – Practical Lessons for You]**
 
 **Host:**  
 "So, what can we learn from Rachid Yazami about pragmatic technical communication? Here are four actionable lessons you can apply today:
