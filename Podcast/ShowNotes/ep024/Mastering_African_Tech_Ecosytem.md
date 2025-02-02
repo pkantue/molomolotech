@@ -1,4 +1,4 @@
-## Title: Innovation beyond Borders 
+## Title: Mastering the African Tech Ecosystem: Lessons for Global Innovation 
 
 ### **[Podcast Introduction]**  
 **Host Intro:**  
