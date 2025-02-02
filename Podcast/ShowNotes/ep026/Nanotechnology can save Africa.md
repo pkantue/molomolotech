@@ -1,4 +1,4 @@
-## Podcast Title: Nanotechnology Can Save Africa - The Mohamed Hag Ali Hassan Story - EP025**  
+## Podcast Title: Nanotechnology Can Save Africa - The Mohamed Hag Ali Hassan Story - EP025
 
 ---
 
