@@ -18,7 +18,17 @@ I’m your host, Dr. PK and today’s episode is all about mastering [Skill/Topi
 
 ---
 
-### **[Layer 2: The WHAT]**  
+### **[Layer 3: Learning with AI]**
+** Breaking Down Industry Terms: ** 
+"Alright, now it’s time for ‘Learning with AI’—where we break down some technical terms related to today’s story! You might have heard words like [Technical Term 1], [Technical Term 2], or [Technical Term 3]—but what do they actually mean?"
+
+[Technical Term 1] – [Simple Explanation + Example]
+[Technical Term 2] – [Simple Explanation + Example]
+[Technical Term 3] – [Simple Explanation + Example]
+"Now, the next time you hear these terms in a meeting or a conference, you’ll know exactly what they mean—and maybe even impress a colleague!"
+
+
+### **[Layer 3: The WHAT]**  
 **Achievements & Results:**  
 "Now let’s explore what [Name] achieved by mastering [Skill/Topic]."  
 - "[Name] developed [project/innovation] that solved [specific problem]."  
@@ -29,7 +39,7 @@ I’m your host, Dr. PK and today’s episode is all about mastering [Skill/Topi
 
 ---
 
-### **[Layer 3: The HOW]**  
+### **[Layer 4: The HOW]**  
 **Deep Dive into the Technical Concepts:**  
 "How did [Name] accomplish these results? Let’s peel back another layer and dive into the technical aspects."  
 - "[Explain the innovation or solution briefly. For example, 'Using MATLAB’s Simulink, [Name] modeled and simulated a control system that optimized agricultural processes.']"  
@@ -40,7 +50,7 @@ I’m your host, Dr. PK and today’s episode is all about mastering [Skill/Topi
 
 ---
 
-### **[Layer 4: The PRACTICAL LESSONS]**  
+### **[Layer 5: The PRACTICAL LESSONS]**  
 **Actionable Tips for Listeners:**  
 "So, what can we learn from [Name] about mastering [Skill/Topic] in technical communication? Here are some practical lessons you can apply today:"  
 1. "[Lesson 1: Break down complex concepts into simple, digestible components.]"  
