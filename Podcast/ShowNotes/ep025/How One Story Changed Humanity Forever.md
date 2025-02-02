@@ -89,7 +89,7 @@ So, here’s my challenge to you: **How can you make your technical work more re
 
 **If you enjoyed this episode, don’t forget to subscribe and share it with your network. And if you’d like to improve your own technical communication skills, check out my coaching program and free resources at [website].**
 
-Next time, we’ll be peeling back the layers on another essential skill—**storytelling**—and how an African innovator used it to drive massive change. Until then, keep pushing boundaries and telling your stories."
+Next time, we’ll be peeling back the layers on another essential skill—**collaboration**—and how an African innovator used it to drive massive change. Until then, keep pushing boundaries and telling your stories."
 
 ---
 
