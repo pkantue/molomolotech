@@ -1,4 +1,4 @@
-## Title: Fighting for Work-Life Balance
+## Title: Is Work-Life Balance Even Possible?
 
 ## Hook 
 What is work-life balance? Why is there such a big emphasis on this concept towards our mental health? 
