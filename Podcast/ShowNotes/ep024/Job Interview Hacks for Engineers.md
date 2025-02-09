@@ -82,6 +82,25 @@ Now, let’s bring in Aboyeji again. When he co-founded Andela, the mission was 
 
 Your interviews should follow the same logic."*  
 
+### **Why the Africa Tech Summit Can Boost Your Career**
+
+**Host (Paulin):**
+*"Before we move to the next key strategy, let’s talk about something that could be a game-changer for your job hunt—the Africa Tech Summit happening this February in Nairobi, Kenya from 12 & 13 Feb. 2025
+
+This event is not just a conference—it’s where Africa’s leading tech founders, investors, and hiring managers gather. And if you’re looking to land a job or grow your network, this is the place to be.
+
+Why does this matter for your job interviews?
+
+You’ll hear directly from industry leaders about the most in-demand skills.
+You can connect with recruiters who are actively hiring.
+You’ll gain insight into emerging trends that you can reference in interviews to sound like an industry insider.
+Imagine ending an interview with:
+‘At the Africa Tech Summit, I learned about the shift towards AI-driven embedded systems and how companies are integrating MATLAB for rapid prototyping.’
+
+That instantly makes you sound knowledgeable and engaged with industry trends.
+
+So, if you can attend, do it. And if you can’t, follow the event online and absorb as much information as possible."*
+
 ---
 
 #### **3. Ask Questions That Make You Unforgettable**  
@@ -140,11 +159,20 @@ Run this in MATLAB, and note how much faster the vectorized method is compared t
 
 ---
 
-### **Call to Action**  
+### **Call to Action: Master Technical Communication for Interview Success**  
 
 **Host (Paulin):**  
-*"Want more interview prep techniques? Check out my full guide on technical communication for engineers at [Molomolo Tech Studios]."*  
+*"One final tip—technical knowledge alone won’t get you the job. You need to communicate it clearly and with impact. That’s exactly what my coaching sessions at **Molomolo Tech Studios** help you master.  
 
+Through my **Technical Communication for Engineers** coaching, you’ll learn how to:*  
+
+✅ **Explain complex ideas simply**—so hiring managers with different backgrounds understand you.  
+✅ **Structure your answers using STAR**—to showcase your problem-solving effectively.  
+✅ **Handle tricky technical questions**—without rambling or freezing under pressure.  
+✅ **Tell compelling project stories**—so your experience stands out.  
+✅ **Write clear and concise reports**—a skill that translates directly into strong interview responses.  
+
+*"If you’re serious about landing that next engineering job, book a FREE session today using the link in the description below and take your communication skills to the next level. The best engineers don’t just build—they communicate their ideas with confidence. Let’s get you there!"*
 ---
 
 ### **Conclusion**  
@@ -157,6 +185,6 @@ Run this in MATLAB, and note how much faster the vectorized method is compared t
 4. **Optimize your technical approach.** Small improvements, like MATLAB vectorization, can set you apart.  
 5. **Communication is key.** Employers want problem-solvers, not just engineers.  
 
-*"Apply these, and you’ll walk into your next interview with clarity and confidence. For more tips, check out [Molomolo Tech Studios]. Now go get that job!"*  
+*"Apply these, and you’ll walk into your next interview with clarity and confidence. This is another episode of Molomolo African Tech Stories, I'm DR. PK. Until next time. Ciao"*  
 
 *(Music fades out.)*
