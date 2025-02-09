@@ -109,8 +109,6 @@ This tells a hiring manager, ‘This person doesn’t just *know* Python—they 
 **Host (Paulin):**  
 *"One of the best ways to make up for a lack of formal experience is by showcasing your skills through projects. Instead of just listing ‘MATLAB’ on your resume, imagine impressing recruiters with a real-world project inspired by groundbreaking work—like Rachid Yazami’s research on lithium-ion batteries.  
 
-> To watch the full tutorial, click the link above. 
-
 Dr. Yazami was instrumental in developing graphite anodes for lithium-ion batteries, revolutionizing energy storage. What if you could demonstrate your understanding of battery technology with a MATLAB project analyzing battery charge and discharge behavior? That’s exactly what we’ll do!"*  
 
 #### **Project: Lithium-Ion Battery Charge/Discharge Analysis in MATLAB**  
