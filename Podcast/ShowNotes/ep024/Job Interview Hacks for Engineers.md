@@ -126,7 +126,7 @@ These questions show you think like an insider. They make you memorable. And mos
 *(Background music fades out slightly for a hands-on practice moment.)*  
 
 **Host (Paulin):**  
-*"Now, let’s get practical. A common interview question for engineers is: ‘How would you optimize code efficiency?’  
+*"Now, let’s get practical. During an interview conversation, a common question for engineers is: ‘How would you optimize code efficiency?’  
 
 Here’s a simple MATLAB exercise:  
 
