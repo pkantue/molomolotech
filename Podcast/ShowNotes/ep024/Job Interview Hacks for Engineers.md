@@ -153,6 +153,12 @@ function optimizedCalculation
     fprintf('Vectorized sum: %f\n', sum2);
     
 end
+
+
+% Elapsed time is 0.397462 seconds.
+% Elapsed time is 0.063813 seconds.
+% Loop sum: 500321.249925
+% Vectorized sum: 500321.249925
 ```
 
 Run this in MATLAB, and note how much faster the vectorized method is compared to the loop-based approach."*  
