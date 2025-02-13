@@ -16,7 +16,7 @@ I’ve been there—adapting my resume for roles in Europe, Africa, and North Am
 **Host (Paulin):**  
 *"Welcome to another episode of Molomolo African Tech Stories. If you’re struggling with crafting the perfect resume, this is for you. By the end of this episode, you’ll have **five powerful tools** to build a standout resume—whether you’re a fresh graduate or an experienced engineer.*  
 
-Through my journey of applying for roles on multiple continents, I’ve learned that resume building is **not** a one-size-fits-all process. What got me interviews in Germany wasn’t the same as what worked in the U.S. or Cameroon. You need to be **adaptive, strategic, and always improving**. Let’s get into it!"*  
+Through my journey of applying for roles on multiple continents, I’ve learned that resume building is **not** a one-size-fits-all process. What got me interviews in Germany wasn’t the same as what worked in the U.S. or South Africa. You need to be **adaptive, strategic, and always improving**. Let’s get into it!"*  
 
 ---
 
@@ -28,7 +28,7 @@ Through my journey of applying for roles on multiple continents, I’ve learned 
 **Host (Paulin):**  
 *"Let’s start with the most widely used tool—**Microsoft Word**. It’s simple, accessible, and powerful if used correctly. But here’s the mistake most people make: they treat it like a blank sheet instead of a structured document.  
 
-When I applied for jobs in Europe, the expectation was a **clean, structured** resume—often no more than **two pages**. In North America, I had to emphasize **impact-driven bullet points** and keywords to pass through Applicant Tracking Systems (ATS).  
+When I applied for some jobs, the expectation was a **clean, structured** resume—often no more than **two pages**. In North America, I had to emphasize **impact-driven bullet points** and keywords to pass through Applicant Tracking Systems (ATS).  
 
 So, when using MS Word:  
 - Use **clear headings** (Education, Experience, Skills).  
