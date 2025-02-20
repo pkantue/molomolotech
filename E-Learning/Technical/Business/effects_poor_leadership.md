@@ -1,4 +1,4 @@
-## Title: The Effects of Poor Leadership
+## Title: The Horrifying Effects of Poor Leadership
 
 ### Hook
 Did you know that 86% of employees believe poor communication is the root cause of workplace failures? Now imagine that failure leading to thousands of employees going unpaid for months
