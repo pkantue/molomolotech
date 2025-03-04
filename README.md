@@ -14,9 +14,9 @@ The **[MoloMolo African Tech Stories](/Podcast)** focuses on sharing untold or f
 The podcast Show Notes are available [here](/Podcast/ShowNotes).
 
 ## Commentaries
-The **[MoloMolo Marula Bytes](/Marula_Bytes)** are commentaries (small bits) on trending news (juicy Marula fruit) affecting the daily lives of Africans.
+The **[MoloMolo Engineer Diaries](/Diaries)** are commentaries on news affecting the daily lives of Engineers and Tech Professionals.
 
-The commentary Show Notes are available [here](/Marula_Bytes/ShowNotes).
+The commentary Show Notes are available [here](/Diaries/ShowNotes).
 
 ## E-learning
 The **[MoloMolo E-learning](/E-Learning)** is a collection of training material to boost your technical skills, personal finance and mindset through technology.
