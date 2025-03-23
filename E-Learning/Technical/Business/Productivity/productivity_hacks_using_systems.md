@@ -63,7 +63,7 @@ Dr. PK (on camera, standing in front of a digital whiteboard or animated infogra
 
 [OUTRO – Call to Action]
 
-"Alright, so now you’ve got a systems engineering blueprint for making your business run like a well-oiled machine. Which of these strategies are you struggling with the most? Drop a comment below and let’s talk about it!"
+"Alright, so now you’ve got a systems engineering blueprint for making your business run like a well-oiled machine. Which of these strategies are you struggling with the most? Drop a comment below and let’s talk about it!". If you want to know more about how systems engineering can impact your business, follow the link in the video description.
 
 "If you found this helpful, don’t forget to like, subscribe, and hit that notification bell so you don’t miss future videos on business strategy, tech, and productivity. And if you need one-on-one coaching, check the link in the description to book a free consultation."
 
